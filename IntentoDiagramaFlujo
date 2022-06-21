@@ -1,0 +1,2 @@
+flowchart TD
+id1([Inicio]) --> id2[Crear variable tipo char codigoEstudiante]
