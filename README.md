@@ -1,2 +1,2 @@
-# Primer-Programa
-HPC repositorio 
+# Primer-Programa-Taller
+HPC repositorio Primer Taller
